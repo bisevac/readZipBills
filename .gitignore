@@ -1,0 +1,15 @@
+node_modules
+coverage
+apidoc
+dist
+*.log
+.idea
+.DS_Store
+!src/.gitkeep
+.vscode
+.temp
+public
+package-lock.json
+temp_excel/*.xlsx
+temp_excel/*.xls
+scripts/log.csv
