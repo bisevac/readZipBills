@@ -1,4 +1,4 @@
-USSAGE EXAMPLE ==>
+USAGE EXAMPLE ==>
 ```
 
 const app = require ( '../src/index' );
